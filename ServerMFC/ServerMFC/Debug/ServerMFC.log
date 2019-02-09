@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/6/11 11:34:37。
+     1>项目“D:\asp\ServerMFC\ServerMFC\ServerMFC.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\ServerMFC.res" ServerMFC.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\asp\ServerMFC\Debug\ServerMFC.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\asp\ServerMFC\Debug\ServerMFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\asp\ServerMFC\Debug\ServerMFC.lib" /MACHINE:X86 Debug\ServerMFC.res
+         Debug\ServerMFC.obj
+         Debug\ServerMFCDlg.obj
+         Debug\stdafx.obj
+         ServerMFC.vcxproj -> D:\asp\ServerMFC\Debug\ServerMFC.exe
+     1>已完成生成项目“D:\asp\ServerMFC\ServerMFC\ServerMFC.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.60
